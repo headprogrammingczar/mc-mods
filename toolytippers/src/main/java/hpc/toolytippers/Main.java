@@ -6,7 +6,7 @@ import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = "toolytippers", name = "Tooly Tippers", version = "0.1", dependencies = "")
+@Mod(modid = "toolytippers", name = "Tooly Tippers", version = "a1", dependencies = "")
 public class Main {
 	@Instance("toolytippers")
 	public Main instance;
