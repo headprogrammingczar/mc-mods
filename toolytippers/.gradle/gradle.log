@@ -1,0 +1,59 @@
+Found AccessTransformer in main resources: toolytippers_at.cfg
+:cofh-geode:downloadClient SKIPPED
+:cofh-geode:downloadServer SKIPPED
+:cofh-geode:getVersionJson
+:cofh-geode:extractUserDev UP-TO-DATE
+:cofh-geode:mergeJars SKIPPED
+:cofh-geode:applyBinPatches SKIPPED
+:cofh-geode:downloadMcpTools SKIPPED
+:cofh-geode:extractMcpData UP-TO-DATE
+:cofh-geode:genSrgs SKIPPED
+:cofh-geode:deobfBinJar UP-TO-DATE
+:cofh-geode:compileApiJava UP-TO-DATE
+:cofh-geode:processApiResources UP-TO-DATE
+:cofh-geode:apiClasses UP-TO-DATE
+:cofh-geode:sourceMainJava UP-TO-DATE
+:cofh-geode:compileJava UP-TO-DATE
+:cofh-geode:processResources UP-TO-DATE
+:cofh-geode:classes UP-TO-DATE
+:cofh-geode:jar
+:cofh-geode:compileTestJava UP-TO-DATE
+:cofh-geode:processTestResources UP-TO-DATE
+:cofh-geode:testClasses UP-TO-DATE
+:cofh-geode:test UP-TO-DATE
+:cofh-geode:reobf
+:cofh-geode:assemble
+:cofh-geode:check UP-TO-DATE
+:cofh-geode:build
+:toolytippers:downloadClient SKIPPED
+:toolytippers:downloadServer SKIPPED
+:toolytippers:getVersionJson
+:toolytippers:extractUserDev UP-TO-DATE
+:toolytippers:mergeJars SKIPPED
+:toolytippers:applyBinPatches SKIPPED
+:toolytippers:downloadMcpTools SKIPPED
+:toolytippers:extractMcpData UP-TO-DATE
+:toolytippers:genSrgs SKIPPED
+:toolytippers:deobfBinJar UP-TO-DATE
+:toolytippers:compileApiJava UP-TO-DATE
+:toolytippers:processApiResources UP-TO-DATE
+:toolytippers:apiClasses UP-TO-DATE
+:toolytippers:sourceMainJava
+:toolytippers:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
+
+:toolytippers:processResources UP-TO-DATE
+:toolytippers:classes
+:toolytippers:jar
+:toolytippers:compileTestJava UP-TO-DATE
+:toolytippers:processTestResources UP-TO-DATE
+:toolytippers:testClasses UP-TO-DATE
+:toolytippers:test UP-TO-DATE
+:toolytippers:reobf
+:toolytippers:assemble
+:toolytippers:check UP-TO-DATE
+:toolytippers:build
+
+BUILD SUCCESSFUL
+
+Total time: 25.096 secs
