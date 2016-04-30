@@ -74,6 +74,9 @@ public class TooltipEvent {
 					fasterThan = efficiencyNames[i];
 				}
 				event.toolTip.add(color + "Mining Speed: " + fasterThan);
+			}
+			// enchantability for things that aren't armor - use the regular material grades
+			if (!(itemStack.getItem() instanceof ItemArmor)) {
 				if (itemStack.getItem().getItemEnchantability() > 0) {
 					int enchantability = itemStack.getItem().getItemEnchantability();
 					int[] enchantabilities = {5, 10, 14, 15, 22, 23};
